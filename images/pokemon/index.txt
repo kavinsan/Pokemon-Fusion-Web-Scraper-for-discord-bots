@@ -1,2 +1,0 @@
-
-./images/pokemon/102-39/Exeggpuff.json
