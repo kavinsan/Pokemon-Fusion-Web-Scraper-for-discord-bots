@@ -1,0 +1,10 @@
+Author: Kavinsan Thavanesan
+
+Using the node cheerio.js library to webs scrape the pokemon fusion site,
+you can retrieve the images and data of the generated pokemon.
+This data can be redirected to your discord bot to generate new pokemon creations.
+
+Note: This script only retrieves the images and data for the created "pokemon fusion"
+    created by the owner of the site: https://pokemon.alexonsager.net/
+    
+Feel free to use this script to your bot.
